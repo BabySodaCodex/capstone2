@@ -1,0 +1,32 @@
+.container {
+
+ position: absolute; 
+  top: 100px;
+  left:1200px;
+  width: 400px;  
+  height: 400px;
+  color:#8E0045;
+  font-family: indie flower;
+	font-size: 27px;
+
+}
+
+#result-image{
+	height: 200px;
+	width: 200px; 
+	border-radius: 20px;
+	
+}
+
+
+
+
+	
+	
+
+
+
+
+
+
+

@@ -1,0 +1,77 @@
+#go-button:active {
+	transform: scale(0.92);
+	
+	}
+#go-button{
+	background-color: transparent;
+	font-family: indie flower;
+    color: #0A0908;
+	box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3);
+	font-size: 20px;
+	
+	
+}
+
+#results {
+	display: flex;
+	
+	
+  
+}
+
+#search{
+	display: flex;
+
+	
+}
+
+#newtext {
+font-family: indie flower;
+color: #0A0908;
+font-size: 20px;
+display: flex;
+flex-wrap: wrap;
+padding: 14px; 
+border: 5px solid; 
+border-radius: 15px;
+ flex-direction: row; 
+justify-content: flex-start; 
+align-items: flex-start;   
+height: 300px;        
+ width: 300px;
+}
+
+
+
+ul {
+font-family: indie flower;
+color: #8E0045;	
+}
+
+#pet-select {
+	background-color: transparent;
+	height: 80px;
+	width: 250px; 
+	font-family: indie flower;
+	box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3);
+	text-align: center;
+	font-size: 25px;
+}
+	
+
+h2{
+	font-family: indie flower;
+	font-size: 30px;
+}
+
+h4{
+	text-align: center;
+	font-family: indie flower;
+    color: #99621E;
+}
+
+
+@media (max-width: 768px) {
+  .box {
+    width: 100%; 
+  }
